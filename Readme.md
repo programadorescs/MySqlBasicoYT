@@ -35,4 +35,4 @@ COLLATE = utf8mb4_0900_ai_ci
 ![Image text](https://github.com/programadorescs/MySqlBasicoYT/blob/master/app/src/main/assets/MySqlBasicoYT_002.png)
 
 ## Video en YouTube
-![¡Mira el video en YouTube!](https://youtu.be/5IMrEkIg1J0)
+[![Alt text](https://img.youtube.com/vi/5IMrEkIg1J0/0.jpg)](https://www.youtube.com/watch?v=5IMrEkIg1J0)
