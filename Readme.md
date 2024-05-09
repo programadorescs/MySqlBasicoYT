@@ -33,3 +33,6 @@ COLLATE = utf8mb4_0900_ai_ci
 
 ![Image text](https://github.com/programadorescs/MySqlBasicoYT/blob/master/app/src/main/assets/MySqlBasicoYT_001.png)
 ![Image text](https://github.com/programadorescs/MySqlBasicoYT/blob/master/app/src/main/assets/MySqlBasicoYT_002.png)
+
+## Video en YouTube
+![¡Mira el video en YouTube!](https://youtu.be/5IMrEkIg1J0)
