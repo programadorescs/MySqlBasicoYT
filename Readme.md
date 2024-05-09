@@ -31,4 +31,5 @@ COLLATE = utf8mb4_0900_ai_ci
 
 ## Pantallazos de la app
 
-![Image text](https://github.com/programadorescs/MaestroDetalleSqlServer/blob/master/app/src/main/assets/Screenshot_20230401_021841_pe.pcs.maestrodetallesqlserver.jpg)
+![Image text](https://github.com/programadorescs/MySqlBasicoYT/blob/master/app/src/main/assets/MySqlBasicoYT_001.png)
+![Image text](https://github.com/programadorescs/MySqlBasicoYT/blob/master/app/src/main/assets/MySqlBasicoYT_002.png)
